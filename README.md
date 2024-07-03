@@ -53,6 +53,7 @@ In **1.Artistic Neural Style Transfer.ipynb**, I extracted both global and detai
 **Adam Optimizer:**  
 <img width="344" alt="b997f3c4e618fbeb48172554611b96d" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/d446dd5e-7634-40e5-8971-19748a836490">  
 <img width="617" alt="53a08b33f1c8f0d0a89add84f6c320d" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/3da09033-22f7-4bca-a2c1-ef9732599384"><br>
+  
 ![output ad](https://github.com/Morlynn/Coding3-Final/assets/163441891/8bca4a9d-ce1e-49c5-9f62-4e5f6796c415)
 
 
