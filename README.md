@@ -33,5 +33,9 @@ In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level 
 <img width="320" alt="b40370b9a7ae146cc7f53b683ec13f4" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/4a154d95-6641-4173-9e30-bd4c8eb0a577">
 <img width="261" alt="dca5f9884d3d1cf72dae11c672bd937" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/32a6d828-0eb2-41eb-8f98-aaba602bcb77"> <br>
 <img width="317" alt="1c99c5ceadbce4e92bb0a90180fcb9c" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/ff7ccebc-1982-4ac7-8857-e1c375420dd7">
-<img width="261" alt="fec221c4ea06add7f921f571d0ebda9" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/bb20bd07-c98b-40d1-9ffe-2253b9de2712">
+<img width="261" alt="fec221c4ea06add7f921f571d0ebda9" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/bb20bd07-c98b-40d1-9ffe-2253b9de2712">  
+
+**Detail Feature Image：**  
+·Rich in details, retaining more texture and edge information from the original image.  
+·Overall color and details are complex, showcasing more subtle elements of the artistic style.
 
