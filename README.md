@@ -72,7 +72,7 @@ Overall, LBFGS produces more detailed and effective style transfer results, whil
 I didn't use AI to help me do it, the tutorials and notebooks I referenced were:  
 [Neural Transfer Using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)  
 [Artistic Neural Style Transfer with PyTorch](https://www.pluralsight.com/resources/blog/guides/artistic-neural-style-transfer-with-pytorch)  
-[]()  
+[(Style Transfer) How to create a “Thai Modern Artwork” without artistic skills](https://medium.com/@nongnoochr/style-transfer-how-to-create-a-thai-modern-artwork-without-artistic-skills-4462aa6eaa3)  
 
 
 
