@@ -20,6 +20,7 @@ The notebooks I use follow these steps:
 **The style image I used:**  
   
 ![cyberpuck2](https://github.com/Morlynn/Coding3-Final/assets/163441891/0d047df8-e381-42a5-a802-c8a933d672de)  
+[Sky scrapers](https://in.pinterest.com/pin/316518680075673642/)
 
 
 ## Learning process
