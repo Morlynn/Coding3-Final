@@ -38,5 +38,10 @@ In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level 
 **Detail Feature Image：**  
 ![low](https://github.com/Morlynn/Coding3-Final/assets/163441891/a66dd125-1a01-473a-b433-2bcdcf4891ca)  
 · Rich in details, retaining more texture and edge information from the original image.  
-· Overall color and details are complex, showcasing more subtle elements of the artistic style.
+· Overall color and details are complex, showcasing more subtle elements of the artistic style.  
+
+**Global Feature Image：**  
+![high](https://github.com/Morlynn/Coding3-Final/assets/163441891/59aa07cc-e83c-4b4c-a2de-62cdd68d383f)
+· Emphasizes overall structure and shape, with prominent colors and large areas of style.
+· Stronger global consistency, with a more cohesive feel but less detailed.
 
