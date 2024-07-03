@@ -11,6 +11,7 @@ The notebooks I use follow these steps:
 3.Build the model: Use a pre-trained convolutional neural network (VGG19) to extract image features.  
 4.Define the loss function: Include content loss and style loss.  
 5.Optimize: Transform the content image into a new image with the style image features through the optimization process.  
+  
 The content image I used:  
 ![sculpture](https://github.com/Morlynn/Coding3-Final/assets/163441891/ee22d71c-06ca-4c0f-b2ee-b7eb351b16b0)
 
