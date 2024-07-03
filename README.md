@@ -68,8 +68,11 @@ In **1.Artistic Neural Style Transfer.ipynb**, I extracted both global and detai
 · Natural combination of style and content.  
   
 Overall, LBFGS produces more detailed and effective style transfer results, while Adam is more efficient for rapid iterations.   
-
-
+## Reference
+I didn't use AI to help me do it, the tutorials and notebooks I referenced were:  
+[Neural Transfer Using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)  
+[Artistic Neural Style Transfer with PyTorch](https://www.pluralsight.com/resources/blog/guides/artistic-neural-style-transfer-with-pytorch)  
+[]()  
 
 
 
