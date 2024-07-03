@@ -13,4 +13,4 @@ The notebooks I use follow these steps:
 5.Optimize: Transform the content image into a new image with the style image features through the optimization process.  
 ## Learning process
 In this project, I conducted two experiments to explore and understand the capabilities of Neural Style Transfer.  
-### Change the layers of VGG19 
+### Analyzing the effects of VGG19 Layer changes on Style Transfer Result
