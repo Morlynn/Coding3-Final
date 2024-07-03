@@ -26,3 +26,6 @@ The notebooks I use follow these steps:
 ## Learning process
 In this project, I conducted two experiments to explore and understand the capabilities of Neural Style Transfer.  
 ### Analyzing the effects of VGG19 Layer changes on Style Transfer Result
+Firstly, I attempted to modify different layers of the VGG19 model to compare the impact of each layer on the style transfer results.
+
+In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level global features.ipynb**, I extracted lower-level detail features (such as fine details and textures) and higher-level global features (such as shapes and structures) respectively, and compared the results.
