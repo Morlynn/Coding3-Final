@@ -66,7 +66,8 @@ In **1.Artistic Neural Style Transfer.ipynb**, I extracted both global and detai
 · Rich in detail, with clear style features.  
 · Slower convergence but approaches the global optimum.  
 · Natural combination of style and content.  
-
+  
+Overall, LBFGS produces more detailed and effective style transfer results, while Adam is more efficient for rapid iterations.   
 
 
 
