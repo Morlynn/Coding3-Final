@@ -57,11 +57,15 @@ In **1.Artistic Neural Style Transfer.ipynb**, I extracted both global and detai
 ![output ad](https://github.com/Morlynn/Coding3-Final/assets/163441891/8bca4a9d-ce1e-49c5-9f62-4e5f6796c415)  
 · Faster convergence, but higher total loss.  
 · Image quality is less refined, with potential noise or unnatural textures in some areas.  
+· But I love it.
 
 **LBFGS Optimizer:**  
 <img width="323" alt="b6c9bed26066cd608ab1ada8476652d" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/3dff6e8e-dd74-4412-97ec-5a04051c5ffc"><br>  
 
-![lll](https://github.com/Morlynn/Coding3-Final/assets/163441891/bd64657f-567e-41ea-a17f-60f6a3878986)
+![lll](https://github.com/Morlynn/Coding3-Final/assets/163441891/bd64657f-567e-41ea-a17f-60f6a3878986)  
+· Rich in detail, with clear style features.  
+· Slower convergence but approaches the global optimum.  
+· Natural combination of style and content.  
 
 
 
