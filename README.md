@@ -6,8 +6,8 @@ Neural Style Transfer (NST) is an extremely interesting and versatile technique 
 ## How to use
 “The notebooks I use follow these steps:
 
-	1.	Load images: Load the content image and the style image.
-	2.	Preprocess images: Preprocess the images.
-	3.	Build the model: Use a pre-trained convolutional neural network (VGG19) to extract image features.
-	4.	Define the loss function: Include content loss and style loss.
-	5.	Optimize: Transform the content image into a new image with the style image features through the optimization process.
+1.Load images: Load the content image and the style image.
+2.Preprocess images: Preprocess the images.
+3.Build the model: Use a pre-trained convolutional neural network (VGG19) to extract image features.
+4.Define the loss function: Include content loss and style loss.
+5.Optimize: Transform the content image into a new image with the style image features through the optimization process.
