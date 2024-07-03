@@ -36,6 +36,6 @@ In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level 
 <img width="261" alt="fec221c4ea06add7f921f571d0ebda9" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/bb20bd07-c98b-40d1-9ffe-2253b9de2712">  
 
 **Detail Feature Image：**  
-·Rich in details, retaining more texture and edge information from the original image.  
-·Overall color and details are complex, showcasing more subtle elements of the artistic style.
+· Rich in details, retaining more texture and edge information from the original image.  
+· Overall color and details are complex, showcasing more subtle elements of the artistic style.
 
