@@ -59,7 +59,11 @@ In **1.Artistic Neural Style Transfer.ipynb**, I extracted both global and detai
 · Image quality is less refined, with potential noise or unnatural textures in some areas.  
 
 **LBFGS Optimizer:**  
-<img width="323" alt="b6c9bed26066cd608ab1ada8476652d" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/3dff6e8e-dd74-4412-97ec-5a04051c5ffc">  
+<img width="323" alt="b6c9bed26066cd608ab1ada8476652d" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/3dff6e8e-dd74-4412-97ec-5a04051c5ffc"><br>  
+
+![lll](https://github.com/Morlynn/Coding3-Final/assets/163441891/bd64657f-567e-41ea-a17f-60f6a3878986)
+
+
 
 
 
