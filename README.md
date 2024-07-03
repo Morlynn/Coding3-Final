@@ -45,3 +45,5 @@ In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level 
 · Emphasizes overall structure and shape, with prominent colors and large areas of style.  
 · Stronger global consistency, with a more cohesive feel but less detailed.  
 
+
+The comparison shows that images with low-level features focus on details and textures, while images with high-level features emphasize overall structure and shapes. Choosing different feature layers can achieve different style transfer effects based on your needs.
