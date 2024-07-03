@@ -29,3 +29,6 @@ In this project, I conducted two experiments to explore and understand the capab
 Firstly, I attempted to modify different layers of the VGG19 model to compare the impact of each layer on the style transfer results.
 
 In **2.Compare _low-level detailed features.ipynb** and **2.Compare _high-level global features.ipynb**, I extracted lower-level detail features (such as fine details and textures) and higher-level global features (such as shapes and structures) respectively, and compared the results.
+
+<img width="320" alt="b40370b9a7ae146cc7f53b683ec13f4" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/4a154d95-6641-4173-9e30-bd4c8eb0a577">
+<img width="261" alt="dca5f9884d3d1cf72dae11c672bd937" src="https://github.com/Morlynn/Coding3-Final/assets/163441891/32a6d828-0eb2-41eb-8f98-aaba602bcb77">
