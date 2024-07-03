@@ -12,4 +12,5 @@ The notebooks I use follow these steps:
 4.Define the loss function: Include content loss and style loss.  
 5.Optimize: Transform the content image into a new image with the style image features through the optimization process.  
 ## Learning process
-In this project
+In this project, I conducted two experiments to explore and understand the capabilities of Neural Style Transfer.  
+### Change the layers of VGG19 
