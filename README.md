@@ -14,6 +14,9 @@ The notebooks I use follow these steps:
   
 The content image I used:  
 ![sculpture](https://github.com/Morlynn/Coding3-Final/assets/163441891/ee22d71c-06ca-4c0f-b2ee-b7eb351b16b0)
+The style image I used:
+![cyberpuck2](https://github.com/Morlynn/Coding3-Final/assets/163441891/0d047df8-e381-42a5-a802-c8a933d672de)
+
 
 ## Learning process
 In this project, I conducted two experiments to explore and understand the capabilities of Neural Style Transfer.  
